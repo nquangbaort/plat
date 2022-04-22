@@ -264,3 +264,16 @@ footer {
   #scrollToTop:hover {
     background-color: #555;
   }
+
+#token-list{
+    background: #E9EEF3;
+}
+table tr.bg-gray{
+    background: #DEE6ED;
+}
+table tr.bg-white{
+   background: #E9EEF3;
+}
+table td {
+    font-size: 14px;
+}

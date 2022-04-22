@@ -341,7 +341,7 @@ const component = (teams) => {
                             ${item.name}
                             ${item.social.map((social, index) => {
                                 return `<a href="${social.link}" target="_blank" class="social-icon">
-                                            <i class="fab fa-${social.name} social-icons" ></i>
+                                            <i class="fab fa-${social.name} social-icons-team" ></i>
                                         </a>`
                             })}
                         </h5>
