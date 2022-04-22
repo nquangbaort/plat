@@ -1,0 +1,29 @@
+.w-60 {
+    width: 60%;
+}
+
+.w-55 {
+    width: 55%
+}
+
+.w-33 {
+    width: 33.33%;
+}
+
+@media(max-width:768px) {
+    .w-55,
+    .w-60,
+    .w-75,
+    .w-33 {
+        width: 100%;
+    }
+    .text--center {
+        text-align: center;
+    }
+    #plat-network {
+        display: none;
+    }
+    .first-task__box{
+        width: 100%;
+    }
+}
