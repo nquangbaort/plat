@@ -28,7 +28,7 @@ const TEAM_LIST = [{
             '10 years of experience in management',
             'F5 years of experience in investment',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/nghi.png',
         order: 2,
         social: [{
             name: 'linkedin',
@@ -44,7 +44,7 @@ const TEAM_LIST = [{
             '2 years of experience in programming on blockchain',
             'Mentor of Octopus Technical Training Course in Vietnam',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/lien.png',
         order: 3,
         social: [{
             name: 'linkedin',
@@ -62,7 +62,7 @@ const TEAM_LIST = [{
             'Mentor of Octopus Technical Training Course in Vietnam',
             'Currently being enthusiastic about Blockchain technology.',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/dung.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -80,7 +80,7 @@ const TEAM_LIST = [{
             'Top 4 in K3 Hackathon organized by Vietnam Blockchain Innovation (VBI).',
             'Currently working on React Native platform for mobile apps, connecting app to the Octopus blockchain via Polkadotjs.',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/tin.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -97,7 +97,7 @@ const TEAM_LIST = [{
             '2 years of research and development of blockchain products',
             ' Leader of a crypto research team with12 members',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/trieu.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -114,7 +114,7 @@ const TEAM_LIST = [{
             '7 years of experience in project management ',
             '4 years of experience in system architect',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/son.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -130,7 +130,7 @@ const TEAM_LIST = [{
             'Have experience in coding smart contract',
             'Have deep interest in cryptocurrency',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/yen.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -145,7 +145,7 @@ const TEAM_LIST = [{
             '3 years of experience in software development',
             'H1 year of experience in UI/UX design',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/yen2.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -161,7 +161,7 @@ const TEAM_LIST = [{
             '5 years of experience as a full stack developer',
             'Head of Communicator Team at Vaix Viet Nam'
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/khuong.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -176,7 +176,7 @@ const TEAM_LIST = [{
             '2 years of experience in web development ',
             'Have strong interest in blockchain technology',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/bao.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -190,7 +190,7 @@ const TEAM_LIST = [{
             'Graduated from FPT Polytechnic College',
             '3 years of experience in web development',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/hoang.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -206,7 +206,7 @@ const TEAM_LIST = [{
             '10 years of experience in managerial and global business development roles',
             'Director Of Strategic Partnerships at Vinsmart'
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/mai.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -221,7 +221,7 @@ const TEAM_LIST = [{
             '10 years of experience in marketing',
             'Content Writter Expert ',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/duong.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -236,7 +236,7 @@ const TEAM_LIST = [{
             '10 years working at several multi-national entrepreuners on sale and customer care of high-technology products',
             'Content Writter Expert',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/bach.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -251,7 +251,7 @@ const TEAM_LIST = [{
             ' Go-getter for innovative, novel, and sustainable ideas',
             'Experience in External Affairs, ELT, Public Relations',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/yen3.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -266,7 +266,7 @@ const TEAM_LIST = [{
             '10 years of experience in UI/UX and software designing',
             'Currently doing R&D in Blockchain technology.',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/thao.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -281,7 +281,7 @@ const TEAM_LIST = [{
             '3 years of experience in graphic design ',
             '1 year of experience in illustration',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/cuong.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -297,7 +297,7 @@ const TEAM_LIST = [{
             '2 years of experience in business analyst',
             '1 year of experience in UI/UX desig',
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/thao2.png',
         order: 7,
         social: [{
             name: 'linkedin',
@@ -313,7 +313,7 @@ const TEAM_LIST = [{
             '12 years of experience in financial sector at HomeCredit, FECredit, Mirae Asset',
             '8 years of experience in investment'
         ],
-        photo: 'images/teams/team1.png',
+        photo: 'images/teams/duc.png',
         order: 7,
         social: [{
             name: 'linkedin',
